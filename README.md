@@ -1,4 +1,4 @@
-# Ambiente Virtual Educacional
+# Ambiente Virtual Educacional💻
 
 ## Introdução
 Este projeto tem como objetivo criar um ambiente virtual para fins educacionais, que possibilite a execução de softwares como MySQL, Node.js e Python. A atividade integra conceitos de Sistemas Operacionais, Redes de Computadores, Levantamento de Requisitos e Lógica de Programação. Nele, você pesquisará componentes para a montagem de um computador com custo máximo de R$ 3.000,00, configurará uma máquina virtual e instalará uma distribuição Linux gratuita, escolhida com base na compatibilidade e facilidade de uso.
@@ -12,7 +12,7 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 - **Outros:** Placa-mãe, fonte de alimentação, etc.
 - **Orçamento Máximo:** R$ 5.000,00
 
-### Requisitos para a Máquina Virtual
+### Requisitos para a Máquina Virtual🖱️
 - **Memória:** 
 - **CPU:** 
 - **Armazenamento:** 
@@ -30,6 +30,7 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 - **Exemplo de Link para Monitor:** [Monitor]( https://www.kabum.com.br/produto/119721/monitor-lg-19-5-hd-60hz-2ms-vga-hdmi-ajuste-de-inclinacao-reader-mode-screen-split-preto-20mk400h-b)
 - **Exemplo de Link para Pasta térmica:** [Pasta térmica](https://www.kabum.com.br/produto/506055/pasta-termica-rise-mode-silver-cold-10w-5g-cinza-rm-tg-10-cld?utm_id=21585251035&gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHangVjx2e1eSPPzkcimck1ciFRJEKLrlhUm4MOMaTW0k3ma5Vlt-I9MaAgPSEALw_wcB)
 
+### VALOR TOTAL:R$ 2.895,99 💸
 
 
 
@@ -39,7 +40,7 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 
 
 ## Escolha do Sistema Operacional
-Após comparar distribuições Linux....
+Após analisar e comparar as versões e sistemas, decidimos instalar o sistema **UNBUTU**
 
 ## Manual de Instalação do Linux no VirtualBox
 
@@ -56,34 +57,41 @@ Após comparar distribuições Linux....
 
 #### 2. Criação da Máquina Virtual
 1. **Clique em "Novo":**
-   - **Nome:** 
-   - **Tipo:**
-   - **Versão:** 
+   - **Nome:*VM-UNBUTU* 
+   - **Tipo:*UNBUTU - LINUX*
+   - **Versão:*24.04.2* 
 
 2. **Configuração de Memória:**
-   - ...
+   - Na memória, definimos **4GB**(4096MB).
+   - NO processador, escolhemos **4 NÚCLEOS**
 
 3. **Criação do Disco Rígido Virtual:**
-   - ......
-   - ......
-   - ......
+   - No disco rígido, definimos **25GB** (o necessário para rodar o Unbutu).
 
 #### 3. Configuração de Rede
+
 - Selecione a máquina virtual criada e clique em "Configurações".
-- ......
-- ......
+- Vá em **Redes**
+- Defina a configuração para **NAT**
+
 
 #### 4. Configuração do Disco de Instalação
-- .......
-- .......
+- Utilizamos um Disco Rígido existente
+- Definimos 25GB para o Sistema.
+- utilizamos o controlador listado **PIIX 4** (compativel com o UNBUTU).
 
 #### 5. Iniciando a Instalação do Ubuntu
-1. **Inicie a Máquina Virtual:**
-   - ...........
 
-2. **Instalação Passo a Passo:**
-   - ......
-   - ......
+1. **Inicie a Máquina Virtual:**
+   
+   - Após iniciar, o sistema vai perguntar se você deseja instalar o programa ou **Experimentar** (sem instalar)
+   - Se escolher "Experimentar", o sistema vai estar pronto para uso, mas sem algumas funcionabilidades disponiveis
+3. **Instalação Passo a Passo:**
+   
+   - Se escolher iniciar, o sistema ira te mandar configurar o software (idioma, idioma do teclado, tipo de instalação).
+   - Após definir esses termos, o sistema te levara para configurar sua conta (nome, nome da maquina, senha).
+   - Feito isso, o Unbutu vai começar a instalar
+   - Com o download pronto, a maquina vai reiniciar e estar pronta para uso.
    - Se solicitado, conecte à internet para atualizações (opcional).
 
 #### 6. Pós-Instalação e Testes
