@@ -86,6 +86,11 @@ Após analisar e comparar as versões e sistemas, decidimos instalar o sistema *
    
    - Após iniciar, o sistema vai perguntar se você deseja instalar o programa ou **Experimentar** (sem instalar)
    - Se escolher "Experimentar", o sistema vai estar pronto para uso, mas sem algumas funcionabilidades disponiveis
+  
+
+  ![image](https://github.com/user-attachments/assets/788bd42c-2da8-4fa4-bc78-4097f147e26a)
+
+     
 3. **Instalação Passo a Passo:**
    
    - Se escolher iniciar, o sistema ira te mandar configurar o software (idioma, idioma do teclado, tipo de instalação).
@@ -93,6 +98,9 @@ Após analisar e comparar as versões e sistemas, decidimos instalar o sistema *
    - Feito isso, o Unbutu vai começar a instalar
    - Com o download pronto, a maquina vai reiniciar e estar pronta para uso.
    - Se solicitado, conecte à internet para atualizações (opcional).
+  
+   ![image](https://github.com/user-attachments/assets/4230308e-3589-4d98-a1d4-13ace4c7aab5)
+
 
 #### 6. Pós-Instalação e Testes
 - Após a instalação, a máquina virtual reiniciará.
