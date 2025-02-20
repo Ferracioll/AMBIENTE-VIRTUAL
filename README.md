@@ -13,9 +13,9 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 - **Orçamento Máximo:** R$ 5.000,00
 
 ### Requisitos para a Máquina Virtual🖱️
-- **Memória:** 
-- **CPU:** 
-- **Armazenamento:** 
+- **Memória:*2x 8GB* 
+- **CPU:*Ryzen 3 3200G* - escolhido
+- **Armazenamento:*SSD 480GB* - escolhido 
 - **Rede:** Configuração via NAT ou Bridge para acesso à internet
 
 ## Pesquisa e Orçamento de Componentes
@@ -124,3 +124,8 @@ Após analisar e comparar as versões e sistemas, decidimos instalar o sistema *
   mysql --version
   node -v
   python3 --version
+
+
+### CONSIDERAÇÕES FINAIS🏆
+
+Com o término da atividade, conseguimos aprender muito, principalmente com os sistemas de rede, instalar maquinas virtuais e escolher os componentes certos para o PC. Sortear as equipes foi muito bom, porque conseguimos socializar e formar novas amizades, otimizando o termino da atividade atraves do trabalho em equipe!😄
