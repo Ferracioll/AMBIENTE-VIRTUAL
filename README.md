@@ -32,6 +32,11 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 
 ### VALOR TOTAL:R$ 2.895,99 💸
 
+<br>
+
+---
+
+![](https://rocketz.com.br/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a127337310f1d02bf5dfe101345ad521f2504037/pc-gamer-atlas-2.jpg)
 
 
 
@@ -63,7 +68,10 @@ Após analisar e comparar as versões e sistemas, decidimos instalar o sistema *
 
 2. **Configuração de Memória:**
    - Na memória, definimos **4GB**(4096MB).
-   - NO processador, escolhemos **4 NÚCLEOS**
+   - No processador, escolhemos **4 NÚCLEOS**
+  
+     ![image](https://github.com/user-attachments/assets/4c49a286-eb47-4ed1-813a-6dffb1297ac1)
+
 
 3. **Criação do Disco Rígido Virtual:**
    - No disco rígido, definimos **25GB** (o necessário para rodar o Unbutu).
@@ -74,11 +82,17 @@ Após analisar e comparar as versões e sistemas, decidimos instalar o sistema *
 - Vá em **Redes**
 - Defina a configuração para **NAT**
 
+![image](https://github.com/user-attachments/assets/e85e0cf4-d9c9-4c5b-970a-b6e8cd307fcc)
+
+
 
 #### 4. Configuração do Disco de Instalação
 - Utilizamos um Disco Rígido existente
 - Definimos 25GB para o Sistema.
 - utilizamos o controlador listado **PIIX 4** (compativel com o UNBUTU).
+
+![image](https://github.com/user-attachments/assets/af91e977-b65c-4494-9efe-95d8ba8e10e7)
+
 
 #### 5. Iniciando a Instalação do Ubuntu
 
