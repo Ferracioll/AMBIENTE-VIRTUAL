@@ -18,23 +18,35 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 - **Armazenamento:*SSD 480GB* - escolhido 
 - **Rede:** Configuração via NAT ou Bridge para acesso à internet
 
-## Pesquisa e Orçamento de Componentes
-- **Exemplo de Link para Processador:** [Processador](https://www.kabum.com.br/produto/102248/processador-amd-ryzen-3-3200g-3-6ghz-4ghz-max-turbo-cache-4mb-quad-core-4-threads-am4-yd3200c5fhbox
-)
-- **Exemplo de Link para Memória RAM:** [Memória]( https://www.kabum.com.br/produto/548589/memoria-ram-lexar-16gb-3200mhz-ddr4-cl22-preto-ld4au016g-b3200gsst)
-- **Exemplo de Link para Placa mãe:** [Placa mãe]( https://www.kabum.com.br/produto/111107/placa-mae-asrock-b450m-hdv-r4-0-amd-am4-micro-atx-ddr4-preto-90-mxb9n0-a0uayz)
-- **Exemplo de Link para Gabinete:** [Gabinete]( https://www.kabum.com.br/produto/204669/gabinete-gamer-rise-mode-z3-glass-lateral-em-vidro-fume-preto-rm-z03-03-fb)
-- **Exemplo de Link para Fonte:** [Fonte]( https://www.kabum.com.br/produto/369658/fonte-msi-mag-a650bn-650w-80-plus-bronze-pfc-ativo-com-cabo-preto-306-7zp2b22-ce0)
-- **Exemplo de Link para Periféricos:** [mouse e teclado](https://www.dell.com/pt-br/shop/teclado-e-mouse-sem-fio-dell-km3322w/apd/580-bbbb/acess%C3%B3rios-para-computador)
-- **Exemplo de Link para Mousepad:** [Mousepad]( https://www.kabum.com.br/produto/111142/mousepad-gamer-rise-mode-black-mode-speed-estendido-900x300mm-rg-mp-06-fbk)
-- **Exemplo de Link para Monitor:** [Monitor]( https://www.kabum.com.br/produto/119721/monitor-lg-19-5-hd-60hz-2ms-vga-hdmi-ajuste-de-inclinacao-reader-mode-screen-split-preto-20mk400h-b)
-- **Exemplo de Link para Pasta térmica:** [Pasta térmica](https://www.kabum.com.br/produto/506055/pasta-termica-rise-mode-silver-cold-10w-5g-cinza-rm-tg-10-cld?utm_id=21585251035&gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHangVjx2e1eSPPzkcimck1ciFRJEKLrlhUm4MOMaTW0k3ma5Vlt-I9MaAgPSEALw_wcB)
+
+<div align="center">
+  
+# Pesquisa e Orçamento de Componentes
+
+
+
+| Componente       | Link                                                                                                                |
+|------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Processador**   | [AMD Ryzen 3 3200G](https://www.kabum.com.br/produto/102248/processador-amd-ryzen-3-3200g-3-6ghz-4ghz-max-turbo-cache-4mb-quad-core-4-threads-am4-yd3200c5fhbox) |
+| **Memória RAM**  | [Lexar 16GB 3200MHz DDR4](https://www.kabum.com.br/produto/548589/memoria-ram-lexar-16gb-3200mhz-ddr4-cl22-preto-ld4au016g-b3200gsst) |
+| **Placa Mãe**    | [ASRock B450M HDV R4.0](https://www.kabum.com.br/produto/111107/placa-mae-asrock-b450m-hdv-r4-0-amd-am4-micro-atx-ddr4-preto-90-mxb9n0-a0uayz) |
+| **Gabinete**     | [Rise Mode Z3 Glass](https://www.kabum.com.br/produto/204669/gabinete-gamer-rise-mode-z3-glass-lateral-em-vidro-fume-preto-rm-z03-03-fb) |
+| **Fonte**        | [MSI MAG A650BN 650W](https://www.kabum.com.br/produto/369658/fonte-msi-mag-a650bn-650w-80-plus-bronze-pfc-ativo-com-cabo-preto-306-7zp2b22-ce0) |
+| **Periféricos**  | [Teclado e Mouse Dell KM3322W](https://www.dell.com/pt-br/shop/teclado-e-mouse-sem-fio-dell-km3322w/apd/580-bbbb/acess%C3%B3rios-para-computador) |
+| **Mousepad**     | [Rise Mode Black Mode Speed](https://www.kabum.com.br/produto/111142/mousepad-gamer-rise-mode-black-mode-speed-estendido-900x300mm-rg-mp-06-fbk) |
+| **Monitor**      | [LG 19.5" HD](https://www.kabum.com.br/produto/119721/monitor-lg-19-5-hd-60hz-2ms-vga-hdmi-ajuste-de-inclinacao-reader-mode-screen-split-preto-20mk400h-b) |
+| **Pasta Térmica**| [Rise Mode Silver Cold 10W](https://www.kabum.com.br/produto/506055/pasta-termica-rise-mode-silver-cold-10w-5g-cinza-rm-tg-10-cld?utm_id=21585251035&gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHangVjx2e1eSPPzkcimck1ciFRJEKLrlhUm4MOMaTW0k3ma5Vlt-I9MaAgPSEALw_wcB) |
+
+
 
 ### VALOR TOTAL:R$ 2.895,99 💸
+
+</div>
 
 <br>
 
 ---
+
 
 ![](https://rocketz.com.br/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a127337310f1d02bf5dfe101345ad521f2504037/pc-gamer-atlas-2.jpg)
 
@@ -70,7 +82,7 @@ Após analisar e comparar as versões e sistemas, decidimos instalar o sistema *
    - Na memória, definimos **4GB**(4096MB).
    - No processador, escolhemos **4 NÚCLEOS**
   
-     ![image](https://github.com/user-attachments/assets/4c49a286-eb47-4ed1-813a-6dffb1297ac1)
+   ![image](https://github.com/user-attachments/assets/4c49a286-eb47-4ed1-813a-6dffb1297ac1)
 
 
 3. **Criação do Disco Rígido Virtual:**
