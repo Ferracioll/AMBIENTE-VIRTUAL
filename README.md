@@ -48,7 +48,6 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 ---
 
 
-![](https://rocketz.com.br/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a127337310f1d02bf5dfe101345ad521f2504037/pc-gamer-atlas-2.jpg)
 
 
 
@@ -114,7 +113,7 @@ Após analisar e comparar as versões e sistemas, decidimos instalar o sistema *
    - Se escolher "Experimentar", o sistema vai estar pronto para uso, mas sem algumas funcionabilidades disponiveis
   
 
-  ![image](https://github.com/user-attachments/assets/788bd42c-2da8-4fa4-bc78-4097f147e26a)
+
 
      
 3. **Instalação Passo a Passo:**
@@ -124,18 +123,93 @@ Após analisar e comparar as versões e sistemas, decidimos instalar o sistema *
    - Feito isso, o Unbutu vai começar a instalar
    - Com o download pronto, a maquina vai reiniciar e estar pronta para uso.
    - Se solicitado, conecte à internet para atualizações (opcional).
-  
-   ![image](https://github.com/user-attachments/assets/4230308e-3589-4d98-a1d4-13ace4c7aab5)
 
 
 #### 6. Pós-Instalação e Testes
 - Após a instalação, a máquina virtual reiniciará.
 - Faça login com as credenciais criadas.
 - Abra o terminal e verifique a instalação dos softwares executando os seguintes comandos:
-  ```bash
+
+   ```bash
   mysql --version
   node -v
   python3 --version
+
+
+---
+
+
+<div align="center">
+
+  
+# TUTORIAL PASSO A PASSO 
+
+#### COM IMAGENS 😄
+
+</div>
+
+
+---
+
+> Acesse o Link para [Download](https://ubuntu.com/download/desktop) do sistema e clique no botão 🔲
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4bd599f1-40da-4317-a405-9a46c35121d5">
+</div>
+
+<br>
+
+> Entre no **VIRTUALBOX** e pressione o simbolo de **➕**
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1b42cc0a-d721-472a-beb0-ab0b55aa45fc">
+</div>
+
+<br>
+
+> De um nome e defina o arquivo, acessando as pastas.
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/191895dd-4907-4092-896e-13330c110f72">
+</div>
+
+<br>
+
+> Clique em **Próximo**.
+
+<br>
+
+> Defina a memória e as **CPUS**.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c7ac261c-db97-4a2e-9b8f-952597a19168">
+</div>
+
+<br>
+
+> Defina o tamanho do **Disco Rigido** 💿
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0ec7df5d-e8e4-495a-ad88-ecf4203dcbad">
+</div>
+
+<br>
+
+> Finalize as configurações ⚙️
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/25ccc10b-5cb0-4c1e-9c09-6a8778a415a3">
+</div>
+
+<br>
+
+---
 
 
 ### CONSIDERAÇÕES FINAIS🏆
